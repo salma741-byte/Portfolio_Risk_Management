@@ -183,22 +183,5 @@ Python 3.10+
 
 ---
 
-##  Installation & Usage
 
-```bash
-# 1. Cloner le dépôt
-git clone https://github.com/votre-username/Portfolio-Risk-Management.git
-cd Portfolio-Risk-Management
-
-# 2. Créer un environnement virtuel (recommandé)
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate     # Windows
-
-# 3. Installer les dépendances
-pip install -r requirements.txt
-
-# 4. Lancer l'analyse complète
-python scripts/main.py
-```
 
